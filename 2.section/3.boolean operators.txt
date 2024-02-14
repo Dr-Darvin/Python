@@ -1,0 +1,37 @@
+3 operators
+    1.AND
+    2.OR 
+    3.NOT 
+
+AND Operator (&&):
+
+| A     | B     | A && B |
+|-------|-------|--------|
+| true  | true  | true   |
+| true  | false | false  |
+| false | true  | false  |
+| false | false | false  |
+
+
+OR Operator (||):
+
+| A     | B     | A || B |
+|-------|-------|--------|
+| true  | true  | true   |
+| true  | false | true   |
+| false | true  | true   |
+| false | false | false  |
+
+
+NOT Operator (!):
+
+| A     | !A    |
+|-------|-------|
+| true  | false |
+| false | true  |
+
+Ex:
+    myAge=27
+    myPet='dog'
+
+    myAge <=30 and myPet=='dog' >>> True
