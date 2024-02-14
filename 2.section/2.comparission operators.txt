@@ -1,0 +1,7 @@
+6 operators
+    1.equal to "=="
+    2.not equal to "!="
+    3.less than "<"
+    4.greater than ">"
+    5.less than or equal to"<="
+    6.greater than or equal to ">="
