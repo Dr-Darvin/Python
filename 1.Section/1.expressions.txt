@@ -1,0 +1,5 @@
+expresesion=values and operators
+expression=2+4 
+    here 2 and 4 are values "+" is the operator
+
+Operator procedeance with BODMAS

@@ -1,0 +1,8 @@
+print() is a function
+
+len() - get length of strings
+
+str(26) ---> '26' = converts integer to strings
+int('123') ---> 123 = converts strings to integer
+
+float(12) ---> 12.0

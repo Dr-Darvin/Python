@@ -1,0 +1,10 @@
+integears = 1,2,3,871,1662
+Float = 7.12
+string = "eggs","Hello World"
+
+String operators
+-----------------
+'alice' + 'bob' = alicebob
+'alice'* 2 = alicealice
+'hello' + '!' * 3 = hello!!!
+
