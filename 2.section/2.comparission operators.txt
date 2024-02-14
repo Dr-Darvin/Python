@@ -5,3 +5,8 @@
     4.greater than ">"
     5.less than or equal to"<="
     6.greater than or equal to ">="
+
+Ex:
+    99==99 >>> True
+    45==89 >>> False
+    23!='hello' >>> True
