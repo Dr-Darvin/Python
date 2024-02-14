@@ -1,0 +1,9 @@
+Indentation is important in python
+
+It separate "blocks"
+
+if hello == 12 :                  # this is a block 
+    print("hello is 12")
+    print("this is first block")  # end of the block. end with an indentation 
+
+Print("Done")
