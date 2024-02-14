@@ -10,3 +10,8 @@ Ex:
     99==99 >>> True
     45==89 >>> False
     23!='hello' >>> True
+
+    42.0==42 >>> True
+
+    hello=123
+    hello<150 >>> True
